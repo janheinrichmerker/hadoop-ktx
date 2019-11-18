@@ -6,7 +6,7 @@ Kotlin extensions for [Apache™ Hadoop®](https://hadoop.apache.org/) (unoffici
 
 ## Gradle Dependency
 
-This library is available on [**jitpack.io**](https://jitpack.io/#com.heinrichreimersoftware/material-intro).  
+This library is available on [**jitpack.io**](https://jitpack.io/#dev.reimer/hadoop-ktx).  
 Add this in your `build.gradle.kts` or `build.gradle` file:
 
 <details open><summary>Kotlin</summary>
@@ -17,7 +17,7 @@ repositories {
 }
 
 dependencies {
-    implementation("dev.reimer:hadoop-ktx:x.y.z")
+    implementation("dev.reimer:hadoop-ktx:<version>")
 }
 ```
 
@@ -31,7 +31,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'dev.reimer:hadoop-ktx:x.y.z'
+    implementation 'dev.reimer:hadoop-ktx:<version>'
 }
 ```
 
