@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/de.heinrichreimer/material-intro.svg)](https://jitpack.io/#de.heinrichreimer/material-intro)
+[![](https://jitpack.io/v/dev.reimer/hadoop-ktx.svg)](https://jitpack.io/#dev.reimer/hadoop-ktx)
 
 # hadoop-ktx
 
