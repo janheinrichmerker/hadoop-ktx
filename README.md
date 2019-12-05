@@ -2,7 +2,7 @@
 
 # hadoop-ktx<sup>[α](#status-α)</sup>
 
-Kotlin extensions for [Apache™ Hadoop®](https://hadoop.apache.org/) (unofficial).
+Kotlin extensions for [Apache Hadoop](https://hadoop.apache.org/) (unofficial).
 
 ## Gradle Dependency
 
