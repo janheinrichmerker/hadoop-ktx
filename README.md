@@ -1,6 +1,6 @@
 [![](https://jitpack.io/v/dev.reimer/hadoop-ktx.svg)](https://jitpack.io/#dev.reimer/hadoop-ktx)
 
-# hadoop-ktx<sup>[α](#status-α)</sup>
+# 💾 hadoop-ktx<sup>[α](#status-α)</sup>
 
 Kotlin extensions for [Apache Hadoop](https://hadoop.apache.org/) (unofficial).
 
