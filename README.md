@@ -1,4 +1,5 @@
-[![](https://jitpack.io/v/dev.reimer/hadoop-ktx.svg)](https://jitpack.io/#dev.reimer/hadoop-ktx)
+[![GitHub Actions](https://img.shields.io/github/workflow/status/reimersoftware/hadoop-ktx/Gradle%20CI?style=flat-square)](https://github.com/reimersoftware/hadoop-ktx/actions)
+[![JitPack](https://img.shields.io/jitpack/v/github/reimersoftware/hadoop-ktx?style=flat-square)](https://jitpack.io/#dev.reimer/hadoop-ktx)
 
 # 💾 hadoop-ktx<sup>[α](#status-α)</sup>
 
