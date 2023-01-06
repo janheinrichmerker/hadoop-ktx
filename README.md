@@ -1,5 +1,5 @@
-[![GitHub Actions](https://img.shields.io/github/workflow/status/reimersoftware/hadoop-ktx/Gradle%20CI?style=flat-square)](https://github.com/reimersoftware/hadoop-ktx/actions)
-[![JitPack](https://img.shields.io/jitpack/v/github/reimersoftware/hadoop-ktx?style=flat-square)](https://jitpack.io/#dev.reimer/hadoop-ktx)
+[![GitHub Actions](https://img.shields.io/github/actions/workflow/status/heinrichreimer/hadoop-ktx/gradle.yml?branch=master&style=flat-square)](https://github.com/heinrichreimer/hadoop-ktx/actions/workflows/gradle.yml)
+[![JitPack](https://img.shields.io/jitpack/v/github/heinrichreimer/hadoop-ktx?style=flat-square)](https://jitpack.io/#dev.reimer/hadoop-ktx)
 
 # 💾 hadoop-ktx<sup>[α](#status-α)</sup>
 
