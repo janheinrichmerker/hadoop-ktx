@@ -1,6 +1,3 @@
-import dev.reimer.hadoop.ktx.hadoop
-import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
-
 plugins {
     kotlin("jvm") version "1.9.22"
     `maven-publish`
@@ -14,13 +11,9 @@ repositories {
 }
 
 dependencies {
-    implementation(kotlin("stdlib-jdk8"))
-    implementation(hadoop("common", "3.1.0"))
-    implementation(hadoop("mapreduce-client-core", "3.1.0"))
-}
-
-tasks.withType<KotlinCompile> {
-    kotlinOptions.jvmTarget = "1.8"
+    implementation(kotlin("stdlib"))
+    implementation("org.apache.hadoop:hadoop-common:3.1.0")
+    implementation("org.apache.hadoop:hadoop-mapreduce-client-core:3.1.0")
 }
 
 publishing {
