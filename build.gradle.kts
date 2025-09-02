@@ -12,8 +12,8 @@ repositories {
 
 dependencies {
     implementation(kotlin("stdlib"))
-    implementation("org.apache.hadoop:hadoop-common:3.4.1")
-    implementation("org.apache.hadoop:hadoop-mapreduce-client-core:3.4.1")
+    implementation("org.apache.hadoop:hadoop-common:3.4.2")
+    implementation("org.apache.hadoop:hadoop-mapreduce-client-core:3.4.2")
 }
 
 publishing {
